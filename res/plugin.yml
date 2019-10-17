@@ -1,0 +1,7 @@
+name: Decay
+version: 1.0
+api-version: 1.14
+description: Player build decay. If left unloaded for a month, player builds will show signs of aging.
+author: IllagerNet
+website: https://illager.net
+main: net.illager.decay.Decay
